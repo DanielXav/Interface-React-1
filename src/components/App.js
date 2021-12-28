@@ -1,8 +1,12 @@
-import Head from "./Head";
+import Header from "./Header";
+import Main from "./Main";
+import Footer from "./Footer";
 
 const App = () => (
     <div>
-        <Head />
+        <Header />
+        <Main />
+        <Footer />
     </div>
 );
 
